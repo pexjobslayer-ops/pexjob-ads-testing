@@ -8,7 +8,18 @@
 | [`meta-ads-testing-autoscale/`](meta-ads-testing-autoscale/SKILL.md) | วิเคราะห์ผล วางแผนทดสอบ และแนะนำการสเกล Meta Ads |
 | [`SKILL.md`](SKILL.md) (root) | Pex JobSlayer Ads Testing — A/B Testing แบบ 1-1-3 สำหรับ Facebook/Instagram และ TikTok |
 
-## วิธีติดตั้งใน Claude (claude.ai / แอป Claude)
+## วิธีง่ายสุด: ให้ Claude ติดตั้งให้
+
+คัดลอกข้อความนี้ไปวางในแชต Claude:
+
+```
+ติดตั้งสกิลจาก https://github.com/pexjobslayer-ops/pexjob-ads-testing/blob/main/meta-ads-testing-ai/SKILL.md ให้หน่อย
+```
+
+Claude จะอ่านไฟล์สกิลแล้วแสดงการ์ดให้กด **บันทึก** (Save) — กดเสร็จก็ใช้ได้ทันที
+หากไม่ขึ้นการ์ด ให้ใช้วิธีอัปโหลด ZIP ด้านล่างแทน
+
+## วิธีติดตั้งใน Claude (claude.ai / แอป Claude) แบบอัปโหลดเอง
 
 1. กดปุ่ม **Code → Download ZIP** ที่หน้านี้ แล้วแตกไฟล์
 2. เลือกโฟลเดอร์สกิลที่ต้องการ (เช่น `meta-ads-testing-ai`) แล้วบีบอัดโฟลเดอร์นั้นเป็น ZIP
